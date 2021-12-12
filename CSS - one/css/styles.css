@@ -1,0 +1,73 @@
+/*=========html tag selectors====== */
+
+
+body { background-color:beige;
+        }
+
+h1 {color: red; 
+    animation: slidein 3s linear 1s;
+    position:static; 
+    left:50%;
+
+    }
+
+img {background-color: lightpink;
+    width: 15%;
+    position: relative;
+    left:5%;
+    border:solid;
+    border-style: dotted;
+    border-width: 50px;
+    border-radius: 20%;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+/*p {
+    font-family: Brush Script MT;
+    font-size:40px;
+    background-color: rgb(235, 196, 229);
+
+}*/
+
+
+/*=========class selectors====== */
+.avotext{
+    font-family: Brush Script MT;
+    font-size:40px;
+    
+}
+
+.blowtext{
+    font-family: Brush Script MT;
+    font-size:40px;
+    
+
+}
+.avo {
+    background-color: cadetblue;
+    
+    border-color: rgb(163, 194, 100);
+    
+
+  
+}
+
+
+.blowfish {
+
+    background-color: rgb(49, 48, 95);
+    
+    border-color: rgb(221, 225, 238);
+
+
+    }
+
+.title {
+
+font-family:Arial ;
+color: red;
+}
+/*=========id selectors====== */
